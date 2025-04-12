@@ -1,4 +1,4 @@
-readme_content = """# Gestor de Tareas en Golang 🚀
+# Gestor de Tareas en Golang 🚀
 
 ¡Bienvenido al **Gestor de Tareas**! Este proyecto es una aplicación de línea de comandos escrita en **Go** que permite gestionar tareas de manera sencilla. Es ideal para aprender conceptos clave de Golang como `structs`, métodos, y cómo construir un menú interactivo.
 
